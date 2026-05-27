@@ -71,7 +71,7 @@ A modern dark-themed SaaS product landing page built with pure HTML and CSS. Fea
 ## 📁 Project Structure
 
 ```
-landing_page/
+landing-page/
 ├── index.html       # Entire site in one file
 └── README.md
 ```
@@ -82,7 +82,7 @@ landing_page/
 
 ```bash
 git clone https://github.com/jinaljain733-cmd/landing-page.git
-cd landing_page
+cd landing-page
 open index.html
 ```
 
