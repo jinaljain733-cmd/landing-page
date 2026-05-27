@@ -81,7 +81,7 @@ landing_page/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/jinaljain733-cmd/landing_page.git
+git clone https://github.com/jinaljain733-cmd/landing-page.git
 cd landing_page
 open index.html
 ```
