@@ -12,7 +12,7 @@ A modern dark-themed SaaS product landing page built with pure HTML and CSS. Fea
 
 ## 🌐 Live Demo
 
-**[https://jinaljain733-cmd.github.io/landing_page/](https://jinaljain733-cmd.github.io/landing_page/)**
+**[https://jinaljain733-cmd.github.io/landing-page/](https://jinaljain733-cmd.github.io/landing-page/)**
 
 ---
 
